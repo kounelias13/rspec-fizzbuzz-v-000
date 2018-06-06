@@ -1,6 +1,6 @@
 def fizzbuzz(x)
 if (x / 3)
-returns "Fizz"
+print "Fizz"
 
 elsif (x / 5)
 returns "Buzz"
