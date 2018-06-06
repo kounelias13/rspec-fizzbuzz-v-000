@@ -3,12 +3,12 @@ if (x / 3)
 print "Fizz"
 
 elsif (x / 5)
-returns "Buzz"
+print "Buzz"
 
 elsif(x / 5) && (x / 3)
-returns "FizzBuzz"
+print "FizzBuzz"
 
 else 
-  returns "nil"
+  print "nil"
 end
 end
