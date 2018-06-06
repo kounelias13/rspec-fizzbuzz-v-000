@@ -3,12 +3,12 @@ if (x % 3 == 0)
 puts "Fizz"
 
 elsif (x % 5 == 0)
-print "Buzz"
+puts "Buzz"
 
 elsif(x % 5 == 0 && x % 3 == 0)
-print "FizzBuzz"
+puts "FizzBuzz"
 
 else 
-  print nil
+  puts nil
 end
 end
