@@ -1,12 +1,12 @@
 def fizzbuzz(x)
   
 if (x % 5 == 0 && x % 3 == 0)
-puts "FizzBuzz"
+ "FizzBuzz"
 
 elsif (x %  3 == 0)
-puts "Fizz"
+ "Fizz"
 
 elsif (x %  5 == 0)
-puts "Buzz"
+ "Buzz"
 end
 end
