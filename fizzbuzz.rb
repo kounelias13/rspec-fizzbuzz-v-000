@@ -1,12 +1,12 @@
 def fizzbuzz(x)
   
 if (x % 5 == 0 && x % 3 == 0)
-print "FizzBuzz"
+puts "FizzBuzz"
 
 elsif (x %  3 == 0)
-print "Fizz"
+puts "Fizz"
 
 elsif (x %  5 == 0)
-print "Buzz"
+puts "Buzz"
 
 end
