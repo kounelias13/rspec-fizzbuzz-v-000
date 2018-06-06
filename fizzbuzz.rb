@@ -3,12 +3,12 @@ if (x / 3)
 returns "Fizz"
 
 elsif (x / 5)
-puts "Buzz"
+returns "Buzz"
 
 elsif(x / 5) && (x / 3)
-puts "FizzBuzz"
+returns "FizzBuzz"
 
 else 
-  puts "nil"
+  returns "nil"
 end
 end
