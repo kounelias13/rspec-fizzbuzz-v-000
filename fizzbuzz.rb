@@ -5,7 +5,7 @@ print "Fizz"
 elsif (x & 5 == 0)
 print "Buzz"
 
-elsif(x / 5) && (x / 3)
+elsif(x / 5 == 0 && x / 3 == 0)
 print "FizzBuzz"
 
 else 
