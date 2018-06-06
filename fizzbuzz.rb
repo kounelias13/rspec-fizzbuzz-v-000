@@ -1,14 +1,15 @@
 def fizzbuzz(x)
-end
 
-if (fizzbuzz/3)
+if (x / 3)
 puts "Fizz"
 
-elsif(fizzbuzz/5)
+elsif (x / 5)
 puts "Buzz"
 
-elsif(fizzbuzz/5 && fizzbuzz/3)
+elsif(x / 5) && (x / 3)
 puts "FizzBuzz"
 
-else puts "nil"
+else 
+  puts "nil"
+end
 end
