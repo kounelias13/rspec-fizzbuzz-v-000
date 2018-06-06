@@ -1,6 +1,6 @@
 def fizzbuzz(x)
   
-if(x / 5  && x /  3)
+if (x / 5  && x / 3)
 puts "FizzBuzz"
 
 elsif (x /  3)
