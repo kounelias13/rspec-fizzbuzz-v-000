@@ -1,5 +1,5 @@
 def fizzbuzz(x)
-if (fizzbuzz(x) / 3)
+if (x / 3)
 returns "Fizz"
 
 elsif (x / 5)
