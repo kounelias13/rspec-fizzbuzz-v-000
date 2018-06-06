@@ -9,6 +9,6 @@ elsif(x % 5 == 0 && x % 3 == 0)
 print "FizzBuzz"
 
 else 
-  print "nil"
+  print nil
 end
 end
