@@ -1,5 +1,5 @@
 def fizzbuzz(x)
-if (x % 3 == 0)
+if (x % 3 = 0)
 print "Fizz"
 
 elsif (x % 5 == 0)
